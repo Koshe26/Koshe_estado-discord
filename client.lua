@@ -3,7 +3,7 @@ Citizen.CreateThread(function()
         -- Este es el application ID ponlo en los ()
 		SetDiscordAppId('')
 
-        -- Pon el nombre del logo tuyo en https://discord.com/developers/applications/841357521099816961/rich-presence/assets
+        -- Your logo name established here: https://discord.com/developers/applications/841357521099816961/rich-presence/assets
 		SetDiscordRichPresenceAsset('')
         
         --[[ 
